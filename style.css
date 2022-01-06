@@ -1,0 +1,164 @@
+body{
+
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.top-left-width{
+
+    width: 50%;
+    padding:8% 2%;
+}
+
+.top-right-width{
+
+    width: 50%;
+    padding: 0%  2%;
+}
+
+.top-image{
+    width: 80%;
+}
+
+.div-alignmen{
+    display: flex;
+    padding: 2% 5%;
+
+}
+
+.mission-title{
+
+    color: rgba(0, 0, 0, 0.815);
+    font-size:55px ;
+    font-weight: 900;
+    font-family: 'Yeseva One', cursive;
+    border-left: 5px solid rgba(253, 12, 4, 0.603);
+    padding-left: 4%;
+    
+}
+
+.spatial-color{
+    color: rgba(255, 72, 0, 0.603);
+}
+.articles{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.815);
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: rgba(253, 12, 4, 0.603);
+    padding: 3% 7%;
+    margin: 2% 0%;
+    display: inline-block;
+    border-radius: 5px;
+}
+.text-for-scrolling{
+    font-size: 18px;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.815);
+}
+
+.mission-topic-title{
+
+    color: rgba(10, 4, 34, 0.87);
+    text-align: center;
+    font-size: 45px;
+    font-weight: 900;
+}
+
+.icon-image{
+    width: 45%;
+}
+
+.topic-name{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.mission-topic{
+
+    width: 330px;
+    height: 330px;
+    margin: 2%;
+    padding: 2%;
+    border-radius: 20px;
+
+}
+
+#topic1-color{
+
+    background-color: rgba(85, 123, 179, 0.171);
+}
+#topic2-color{
+
+    background-color: rgba(166, 16, 180, 0.151);
+}
+
+#topic3-color{
+
+    background-color: rgba(247, 12, 12, 0.137);
+}
+
+.min-width{
+    width: 40%;
+    padding: 0% 2%;
+}
+
+.max-width{
+    width: 60%;
+    padding: 0% 2%;
+}
+
+.sec-image{
+    width: 100%;
+}
+.sec-title{
+    font-size: 35px;
+    font-weight: 800;
+    color: rgba(0, 0, 0, 0.815);
+}
+.develop{
+    background-image: url(/images/background-image/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: left;
+}
+.course{
+    background-image: url(/images/background-image/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position: right bottom;
+
+}
+.web-developper{
+    height: 500px;
+}
+
+footer{
+    background-color: rgba(0, 3, 15, 0.945);
+    padding: 1%;
+    text-align: center;
+}
+#footer-mission{
+
+    font-family: 'Playball', cursive;
+    color: white;
+    font-size: 40px;
+    font-weight: 900;
+    
+}
+#footer-22{
+
+    color: rgba(241, 59, 59, 0.671);
+}
+
+#footer-text{
+
+    color: white;
+
+}
+
+
